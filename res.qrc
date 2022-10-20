@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resource/open.png</file>
+        <file>Resource/release.png</file>
+        <file>Resource/save.png</file>
+        <file>Resource/recovery.png</file>
+        <file>Resource/windowicon.png</file>
+        <file>Resource/exit.png</file>
+        <file>Resource/help.png</file>
+    </qresource>
+</RCC>
